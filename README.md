@@ -1,2 +1,2 @@
 # my-test-github-repo
-Repo for training
+Repository for training
