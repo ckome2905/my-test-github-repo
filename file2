@@ -2,3 +2,6 @@ we can also do
 I used "git://" instead of "https://" and that solved the problem. My final command was:
 
 git clone --recursive git://github.com/ceph/ceph.git
+Now pushing from git local repo to central repo to be in sync
+git push origin master
+
