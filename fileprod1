@@ -1,1 +1,6 @@
 testing prod environment
+Merging Mater and PROD
+That is making both master and Prod to be in sync
+git merge PROD     IE merhing prod to master
+git push origin master
+
