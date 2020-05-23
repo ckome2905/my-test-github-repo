@@ -1,0 +1,4 @@
+we can also do 
+I used "git://" instead of "https://" and that solved the problem. My final command was:
+
+git clone --recursive git://github.com/ceph/ceph.git
