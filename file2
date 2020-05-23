@@ -4,4 +4,4 @@ I used "git://" instead of "https://" and that solved the problem. My final comm
 git clone --recursive git://github.com/ceph/ceph.git
 Now pushing from git local repo to central repo to be in sync
 git push origin master
-
+waoh
